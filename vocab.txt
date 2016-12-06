@@ -1,0 +1,3 @@
+git branch: command for branching
+git branch <name>: creates a branch named <name>
+git checkout <branch>: switches to the new branch
